@@ -16,11 +16,11 @@
     <img alt="GitHub Workflow Status (branch)" src="https://img.shields.io/github/workflow/status/laanwj/rust-clightning-rpc/Integration%20testing/master?style=flat-square"/>
   </a>
   
-  <a href="https://crates.io/clightningrpc">
+  <a href="https://crates.io/crates/clightningrpc">
     <img alt="Crates.io" src="https://img.shields.io/crates/v/clightningrpc?style=flat-square"/>
   </a>
   
-  <a href="https://crates.io/clightningrpc">
+  <a href="https://crates.io/crates/clightningrpc">
     <img alt="Crates.io" src="https://img.shields.io/crates/d/clightningrpc?style=flat-square"/>
   </a>
   
